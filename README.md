@@ -6,7 +6,7 @@ Public repository for the CloudGuides Web Applicaiton
 
 
 ## :grey_question:	About
-CloudGluides is a web application for creating, and posting educational content related to cloud service providers.  
+CloudGluides is a web application for creating, and posting educational content related to cloud service providers (i.e. Azure, and Amazon Web Services).  
 It includes a:
 <ul>
     <li>Content management system for performing all CRUD operations (Create, Read, Update, Delete) for each post</li>
