@@ -21,8 +21,6 @@ Please note that, due to licensing restrictions, none of the front-end web pages
 Also, due to security reasons, the SMTP email settings, and database connection details have been removed from the corresponding config files. 
 
 ## :camera: Examples
-<<<<<<< HEAD
-=======
 Here you can find examples of the back-end, including the admin panel, and submitting/editing a post
 
 <b>Admin Panel Home Page</b>
@@ -37,4 +35,3 @@ Here you can find examples of the back-end, including the admin panel, and submi
 <br>
 <b>Deleting a Post <b>
 <div><img src="https://i.vgy.me/c0Ej7D.png"></div>
->>>>>>> ed6754316f889bb6c4e64b2017da07b905bf4b7c
