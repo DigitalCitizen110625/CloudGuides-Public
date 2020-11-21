@@ -2,7 +2,7 @@
 Public repository for the CloudGuides Web Applicaiton
 
 ## :cloud:  Live Demo
-<a href="DEBUG">Click here </a> for a live demo of the system.
+<a href="http://15.223.5.246/CloudGuides/Php/views/index.view.php">Click here </a> for a live demo of the system.
 
 
 ## :grey_question:	About
@@ -21,3 +21,17 @@ Please note that, due to licensing restrictions, none of the front-end web pages
 Also, due to security reasons, the SMTP email settings, and database connection details have been removed from the corresponding config files. 
 
 ## :camera: Examples
+Here you can find examples of the back-end, including the admin panel, and submitting/editing a post
+
+<b>Admin Panel Home Page</b>
+<div><img src="https://i.vgy.me/QtTlp9.png"></div>
+
+<br>
+<b>Editing a Post</b>
+<div><img src="https://i.vgy.me/skDp2G.png"></div>
+<br>
+<div><img src="https://i.vgy.me/HzIoIY.png"></div>
+
+<br>
+<b>Deleting a Post <b>
+<div><img src="https://i.vgy.me/c0Ej7D.png"></div>
