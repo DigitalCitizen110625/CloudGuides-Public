@@ -1,10 +1,6 @@
 # CloudGuides-Public
 Public repository for the CloudGuides Web Applicaiton
 
-## :cloud:  Live Demo
-<a href="http://15.223.5.246/CloudGuides/Php/views/index.view.php">Click here </a> for a live demo of the system.
-
-
 ## :grey_question:	About
 CloudGluides is a web application for creating, and posting educational content related to cloud service providers (i.e. Azure, and Amazon Web Services).  
 It includes a:
